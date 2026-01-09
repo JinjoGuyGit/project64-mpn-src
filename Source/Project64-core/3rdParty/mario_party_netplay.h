@@ -86,7 +86,7 @@ const uint32_t MP3_MEM_TOTAL_TURNS = 0x0CD059;
 
 static const char* MP3_BOARDS[7] =
 {
-    "Chilly Waters",
+    "Lago Gélido",
     "Deep Bloober Sea",
     "Spiny Desert",
     "Woody Woods",
